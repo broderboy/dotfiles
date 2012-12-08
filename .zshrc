@@ -11,6 +11,7 @@ ZSH_THEME="robbyrussell"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias sublime='open -a "Sublime Text 2"'
+alias activate='source myenv/bin/activate'
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
