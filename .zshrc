@@ -12,6 +12,7 @@ ZSH_THEME="robbyrussell"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias sublime='open -a "Sublime Text 2"'
 alias activate='source myenv/bin/activate'
+alias phpcs='/usr/local/Cellar/php54/5.4.9/bin/phpcs'
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
